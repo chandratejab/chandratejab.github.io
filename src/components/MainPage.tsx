@@ -77,7 +77,7 @@ const MainPage: React.FC = () => {
             <div className="left">
               <h1>Hello! I'm Chandra Teja Bavandla</h1>
               <p>
-                I'm a passionate developer with industry experience in building microservices and data feeds at scale.
+                I'm a software developer with industry experience in building microservices and data feeds at scale.
               </p>
               <div className="social-links">
                 <a href="https://in.linkedin.com/in/chandratejabavandla/" target="_blank" rel="noopener noreferrer">
