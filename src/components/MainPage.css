@@ -92,9 +92,13 @@ p {
 }
 
 .navbar a {
-  color: #333;
+  color: rgb(122, 122, 122);
   text-decoration: none;
   margin-left: 30px;
+}
+
+.navbar a:hover {
+  color: rgb(37, 37, 37);
 }
 
 .section {
